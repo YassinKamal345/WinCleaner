@@ -1,0 +1,7 @@
+# WinCleaner no requiere dependencias externas.
+# Usa únicamente la librería estándar de Python:
+# - tkinter (incluido en Python para Windows)
+# - os, shutil, threading, ctypes, subprocess, pathlib
+
+# Si en el futuro se añaden dependencias, listadas aquí:
+# pyinstaller>=6.0  # solo para crear .exe
