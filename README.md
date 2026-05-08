@@ -134,14 +134,10 @@ Si se ejecuta sin permisos de administrador, algunas funciones estarán limitada
 WinCleaner/
 │
 ├── cleaner.py
-├── build.bat
-├── icon.ico
+├── run.bat
 ├── README.md
 ├── requirements.txt
-│
-├── dist/
-├── build/
-└── __pycache__/
+
 ```
 
 ---
