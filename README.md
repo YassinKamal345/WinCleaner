@@ -59,7 +59,7 @@
 ### Ejecutar
 
 ```bash
-git clone https://github.com/TUUSUARIO/WinCleaner.git
+git clone https://github.com/YassinKamal345/WinCleaner.git
 cd WinCleaner
 
 python cleaner.py
